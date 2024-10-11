@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋一起来学英语呀
+一、记单词的方法：
 
 <!--
 **spytghg/spytghg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

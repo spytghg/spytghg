@@ -1,5 +1,7 @@
-## Hi there 👋一起来学英语呀
-一、记单词的方法：
+## Hi there there 👋一起来学英语呀
+一、记单词攻略：
+https://github.com/spytghg/spytghg/blob/09a4341ef58c972f1d8498e057b3029cc2e41bcd/%E8%AE%B0%E5%8D%95%E8%AF%8DS6-%20V1.pdf
+
 
 <!--
 **spytghg/spytghg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
